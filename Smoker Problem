@@ -1,1 +1,16 @@
 Description of question from econ stats problem set:
+
+Maternal smoking during pregnancy has an negative association with birthweight. Sup-
+pose that the distribution of newborn child’s birthweight is BWS ∼ N (3050, 5902) if
+the mother smokes during pregnancy, while the distribution is BSN S ∼ N (3260, 5302)
+if the mother does not smoke during pregnancy.
+
+(a) Which of the following is larger: the pdf of BWS evaluated at 3050 or the pdf of
+BWN S evaluated at 3260? Explain why.
+
+(b) Plot the two distributions on the same graph, over the range between 2000 grams
+and 4500 grams, in R.
+
+(d) What is the probability that the birthweight of a baby born to a smoking mother
+is greater than the birthweight of a baby born to the non-smoking mother? (You
+can treat these two births as independent of each other.)
